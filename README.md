@@ -1,4 +1,4 @@
-<a rel="me" href="https://freiburg.social/@zarquon42b">Mastodon</a>
+<a rel="nofollow me" href="https://freiburg.social/@zarquon42b">Mastodon</a>
 <!--
 **zarquon42b/zarquon42b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
